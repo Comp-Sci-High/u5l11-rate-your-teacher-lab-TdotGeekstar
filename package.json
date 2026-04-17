@@ -2,6 +2,7 @@
   "dependencies": {
     "ejs": "^5.0.2",
     "express": "^5.2.1",
+    "install": "^0.13.0",
     "mongoose": "^9.4.1"
   }
 }
